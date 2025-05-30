@@ -1,6 +1,6 @@
 if SHIELD_MODR
 
 config ZMK_KEYBOARD_NAME
-    default "Modr"
+    default "modr"
 
 endif
